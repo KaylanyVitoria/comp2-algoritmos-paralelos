@@ -1,0 +1,13 @@
+# Java
+*.class
+bin/
+
+# VS Code
+.vscode/
+
+# Python
+venv/
+__pycache__/
+
+# CSV
+resultados.csv
